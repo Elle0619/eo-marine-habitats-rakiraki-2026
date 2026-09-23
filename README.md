@@ -1,5 +1,5 @@
-# digitalearthpacific-usp-2026
-Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impacts using Digital Earth Pacific 
+# digitalearthpacific-iahs-cog-wr-2026
+Earth Observation marine habitat mapping using Digital Earth Pacific
 
 <img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
 
@@ -13,6 +13,11 @@ Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Dis
 #### Instructor: Dr Nicholas Metherall, Pacific Community (SPC) https://fennerschool.anu.edu.au/people/nicholas-metherall 
 
 Nick Metherall is a hydrologist, forester and earth observation specialist. He was the first cotutelle (joint) PhD student at the University of the South Pacific (USP). His PhD titled "Combining field surveys, GIS and earth observation methods for localised environmental monitoring of hydrology and forestry ecosystem services" was completed in collaboration with USP and the Australian National University (ANU). Nick has worked in a range of Governments, Intergovernmental Organisations, universities and NGOs. Notably, Nick has worked within the Australian Federal Departments of Agriculture, Water and Environment, the Climate Change Division of the Department of Environment and Energy, the Australian Trade Commission, the Water Authority, Ministry of Rural and Maritime Development and the National Disaster Management Office of Fiji. During this time, Nick also worked in environmental monitoring of the impacts of the Ranger Uranium Mine on the Magela floodplains and creeks adjacent close to Jabiru and Kakadu in the Northern Territory. He has also worked across Australia, Indonesia, Timor and West Papua. Nick has led teams to win awards within earth observation competitions including 3rd Prize in the Earth Observation for SDGs Competition, 2nd prize in the MAXAR Spatial Challenge (2020), and the 1st prize in the SpaceBase Space for Planet Earth Challenge. He is currently team lead for the Earth and Ocean Observation (EOO) Section of the Geoscience Energy Maritime Division within the Pacific Community (SPC).  
+
+## Lab and technical support 
+- Elenoa Cibaiwasawasa: an Earth and Oceans Observation Team Intern at SPC based in the GEM division.  A recent graduate from the University of the South Pacific with a bachelor's degree in Geospatial Science (Analyst pathway) assisting in the Loss and Damage Project. 
+- Fayth Tikotani:  Graduate in Environmental Science (Biology pathway) and is part of the Earth and Ocean Observation Team as an Intern, currently assisting in the Clean Seas Project involving environmental monitoring and management.   
+- Vasemaca Naraukawa: An Earth and Ocean Observation Team Intern and a part-time Teaching Assistant at USP in Suva. Vasemaca graduated with a degree in Geospatial science (Developer pathway) at the University of the South Pacific (USP) earlier on this year.  
 
 ## Course Overview 
 
@@ -52,10 +57,6 @@ The expected participants are approximately 30 – 40 USP students, primarily 30
 - Students generate and interpret applied outputs related to landcover, marine habitat mapping, coastal monitoring, disaster impacts and change statistics. 
 - Students present their applied findings through group presentations and complete the course evaluation process. 
 
-## Lab and technical support 
-- Elenoa Cibaiwasawasa: an Earth and Oceans Observation Team Intern at SPC based in the GEM division.  A recent graduate from the University of the South Pacific with a bachelor's degree in Geospatial Science (Analyst pathway) assisting in the Loss and Damage Project. 
-- Fayth Tikotani:  Graduate in Environmental Science (Biology pathway) and is part of the Earth and Ocean Observation Team as an Intern, currently assisting in the Clean Seas Project involving environmental monitoring and management.   
-- Vasemaca Naraukawa: An Earth and Ocean Observation Team Intern and a part-time Teaching Assistant at USP in Suva. Vasemaca graduated with a degree in Geospatial science (Developer pathway) at the University of the South Pacific (USP) earlier on this year.  
 
 ## Project: EO-Based GRSS Training for PICTS- Description 
 The project is about coordination of an EO-based GRSS education program dedicated to young scientists and stakeholders in the Pacific Islanding territories supported by GRSS REACT & IADF TCs and Australian Chapters, in cooperation with Regional GEOs (AOGEO and EuroGEO), the GEO Enabling Mechanisms GEO-CRADLE, AI4EO & EO4SDG, and the Digital Earth Pacific. The expected outcome of this project aligned with the GRSS Goals, given that: 
