@@ -1,12 +1,11 @@
-# digitalearthpacific-iahs-cog-wr-2026
-Earth Observation marine habitat mapping using Digital Earth Pacific
+# Earth observation course - marine habitats in Rakiraki
+
 =======
-# digitalearthpacific-IAHS-workshop-2026
-Earth Observation Multi-Temporal Change Detection for Coastal Monitoring using Digital Earth Pacific 
+Earth Observation marine habitat mapping using Digital Earth Pacific
 
 <img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
 
-#### Course dates: 24–25 September 2026 
+#### Course dates: 25 September 2026 
 #### Host institution: Pacific Community (SPC) 
 #### Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring using Digital Earth Pacific 
 <img width="850" height="420" alt="image" src="https://github.com/user-attachments/assets/69656724-9140-4eff-8714-637ee96704bf" />
