@@ -3,12 +3,12 @@
 
 Earth Observation marine habitat mapping using Digital Earth Pacific
 
-<!-- <img width="920" height="320" alt="image" src="https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026/blob/main/course-mrd.png?raw=true" /> -->
+<img width="800" height="310" alt="image" src="https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026/blob/main/course-mrd.png?raw=true" /> -->
 
 #### Course dates: 25 September 2026 
 #### Host institution: Pacific Community (SPC) 
 #### Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring using Digital Earth Pacific 
-<img width="750" height="410" alt="image" src="[https://github.com/user-attachments/assets/69656724-9140-4eff-8714-637ee96704bf](https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026/blob/main/course-mrd.png?raw=true)" />
+<!-- <img width="750" height="410" alt="image" src="[https://github.com/user-attachments/assets/69656724-9140-4eff-8714-637ee96704bf](https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026/blob/main/course-mrd.png?raw=true)" /> -->
  
 
 #### Instructor: Dr Nicholas Metherall, Pacific Community (SPC) https://fennerschool.anu.edu.au/people/nicholas-metherall 
