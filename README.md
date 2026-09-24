@@ -1,6 +1,6 @@
 # Earth observation course - marine habitats in Rakiraki
 
-=======
+
 Earth Observation marine habitat mapping using Digital Earth Pacific
 
 <img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
@@ -15,16 +15,14 @@ Earth Observation marine habitat mapping using Digital Earth Pacific
 
 Nick Metherall is a hydrologist, forester and earth observation specialist. He was the first cotutelle (joint) PhD student at the University of the South Pacific (USP). His PhD titled "Combining field surveys, GIS and earth observation methods for localised environmental monitoring of hydrology and forestry ecosystem services" was completed in collaboration with USP and the Australian National University (ANU). Nick has worked in a range of Governments, Intergovernmental Organisations, universities and NGOs. Notably, Nick has worked within the Australian Federal Departments of Agriculture, Water and Environment, the Climate Change Division of the Department of Environment and Energy, the Australian Trade Commission, the Water Authority, Ministry of Rural and Maritime Development and the National Disaster Management Office of Fiji. During this time, Nick also worked in environmental monitoring of the impacts of the Ranger Uranium Mine on the Magela floodplains and creeks adjacent close to Jabiru and Kakadu in the Northern Territory. He has also worked across Australia, Indonesia, Timor and West Papua. Nick has led teams to win awards within earth observation competitions including 3rd Prize in the Earth Observation for SDGs Competition, 2nd prize in the MAXAR Spatial Challenge (2020), and the 1st prize in the SpaceBase Space for Planet Earth Challenge. He is currently team lead for the Earth and Ocean Observation (EOO) Section of the Geoscience Energy Maritime Division within the Pacific Community (SPC).  
 
-<<<<<<< HEAD
 ## Lab and technical support 
 - Elenoa Cibaiwasawasa: an Earth and Oceans Observation Team Intern at SPC based in the GEM division.  A recent graduate from the University of the South Pacific with a bachelor's degree in Geospatial Science (Analyst pathway) assisting in the Loss and Damage Project. 
 - Fayth Tikotani:  Graduate in Environmental Science (Biology pathway) and is part of the Earth and Ocean Observation Team as an Intern, currently assisting in the Clean Seas Project involving environmental monitoring and management.   
 - Vasemaca Naraukawa: An Earth and Ocean Observation Team Intern and a part-time Teaching Assistant at USP in Suva. Vasemaca graduated with a degree in Geospatial science (Developer pathway) at the University of the South Pacific (USP) earlier on this year.  
 
 ## Course Overview 
-=======
+
 ## Training Overview 
->>>>>>> 28bf64e (Add habitat statistics markdown and update training data)
 
 This one-day short workshop will provide advanced, practical training in Earth Observation (EO), remote sensing and geospatial analysis for coastal monitoring impact applications in Pacific Island contexts. The course follows the preliminary agenda, moving Day 2 of the workshop provides hands-on training in Earth Observation and geospatial analysis for marine habitat mapping. Participants from a range of government agencies, regional organisations, research institutions, and partner organisations will be introduced to Digital Earth Pacific and EO-GPT before undertaking practical exercises in machine learning-based marine habitat classification. Through collaborative activities and discussions, participants will learn how satellite imagery, field data, and classification workflows can be used to map and monitor coastal and marine environments, supporting evidence-based management and decision-making in the Pacific.from an overview of EO and multi-temporal sensors in Digital Earth Pacific, GitHub and Digital Earth Pacific account setup, introductory Python activities, and QField preparation, to field data collection for landcover and marine habitat mapping, a coastal field survey along, post-processing and incorporation of field data into Digital Earth Pacific, machine learning classification workflows, change detection and statistics, and student group presentations. 
 
@@ -58,13 +56,10 @@ The expected participants are approximately  20-25 participants, professionals, 
 - Participants apply geospatial analysis techniques to support environmental monitoring and evidence-based decision-making in coastal and marine environments.
 - Participants engage in collaborative discussions, share experiences and applications from their respective organisations, and complete the workshop evaluation process.
 
-<<<<<<< HEAD
-=======
 ## Technical support 
 - Elenoa Cibaiwasawasa: an Earth and Oceans Observation Team Intern at SPC based in the GEM division.  A recent graduate from the University of the South Pacific with a bachelor's degree in Geospatial Science (Analyst pathway) assisting in the Loss and Damage Project. 
 - Fayth Tikotani:  Graduate in Environmental Science (Biology pathway) and is part of the Earth and Ocean Observation Team as an Intern, currently assisting in the Clean Seas Project involving environmental monitoring and management.   
 - Vasemaca Naraukawa: An Earth and Ocean Observation Team Intern and a part-time Teaching Assistant at USP in Suva. Vasemaca graduated with a degree in Geospatial science (Developer pathway) at the University of the South Pacific (USP) earlier on this year.  
->>>>>>> 28bf64e (Add habitat statistics markdown and update training data)
 
 ## Project: EO-Based GRSS Training for PICTS- Description 
 The project is about coordination of an EO-based GRSS education program dedicated to scientists and stakeholders in the Pacific Islanding territories supported by GRSS REACT & IADF TCs and Australian Chapters, in cooperation with Regional GEOs (AOGEO and EuroGEO), the GEO Enabling Mechanisms GEO-CRADLE, AI4EO & EO4SDG, and the Digital Earth Pacific. The expected outcome of this project aligned with the GRSS Goals, given that: 
