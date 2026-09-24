@@ -3,7 +3,7 @@
 
 Earth Observation marine habitat mapping using Digital Earth Pacific
 
-<img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
+<img width="920" height="320" alt="image" src="[https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4](https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026/blob/main/course-mrd.png?raw=true)" />
 
 #### Course dates: 25 September 2026 
 #### Host institution: Pacific Community (SPC) 
