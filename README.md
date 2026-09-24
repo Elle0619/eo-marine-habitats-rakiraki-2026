@@ -47,11 +47,6 @@ The training is deliberately practice-oriented: students will set up the require
 ## Delivery Approach 
 The training will be delivered through a combination of presentations, demonstrations, and hands-on exercises. Participants will gain practical experience using Digital Earth Pacific, EO-GPT, GitHub, and machine learning workflows for marine habitat classification. This one-day programme progresses from platform orientation and data preparation to classification, accuracy assessment, habitat statistics, and interpretation of results for coastal and marine management applications.
 
-
- <img width="680" height="750" alt="image" src="https://github.com/user-attachments/assets/1fdafd7a-3e71-4879-b5b8-2b03f95f9213" />
-
-
-
 ## Participation
 The expected participants are approximately  20-25 participants, professionals, researchers, practitioners, and students working in geospatial, environmental, coastal, marine, and related disciplines. The training is intended to support both academic learning and professional readiness by exposing participants to applied EO workflows relevant to Pacific Island conditions. 
 
@@ -103,7 +98,8 @@ Metherall, N., Anderson, J., Singh, S., Leith, A., Saipaia, A., Fa’anunu, L., 
 
 Biukoto, E., Metherall, N., Baleilomaloma, A. L., Mateboto, J., Naikatini, A., Tupua, V., Killough, B., Leith, A., Nisha, Z., Caucau, T., and Waqa, M.: Applying replicable open-source workflows to identify invasive flora: Spathodea campanulata in a small-scale forest plot in Korotari, Fiji, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W20-2025, 1–10,  https://doi.org/10.5194/isprs-archives-XLVIII-4-W20-2025-1-2026, 2026. 
 
- 
+### Marine habitat monitoring: 
+Metherall, N. Waqa, Maivunijale, Leith, A. Biukoto, E. Heiheina Brown, J. Anderson, J. Lodhia, S. Covilati, S. Dhaja, C. An automated multi-sensor pipeline for marine benthic habitat mapping across pacific island countries and territories.  In IGARSS 2026-2026 IEEE International Geoscience and Remote Sensing Symposium. IEEE.  
 
 ### Tropical cyclone impacts:  
 Metherall, N., Holland, E., Tu’uholoaki, M. et al. The impact of tropical cyclones Pam, Harold, Winston and Yasa on tree cover loss in Vanuatu and Fiji. Sci Rep 16, 212 (2026). https://doi.org/10.1038/s41598-025-29437-w  
