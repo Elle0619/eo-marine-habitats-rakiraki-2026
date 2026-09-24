@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # digitalearthpacific-iahs-cog-wr-2026
 Earth Observation marine habitat mapping using Digital Earth Pacific
 =======
 # digitalearthpacific-IAHS-workshop-2026
 Earth Observation Multi-Temporal Change Detection for Coastal Monitoring using Digital Earth Pacific 
->>>>>>> 28bf64e (Add habitat statistics markdown and update training data)
 
 <img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
 
